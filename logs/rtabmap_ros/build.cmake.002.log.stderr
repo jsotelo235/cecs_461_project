@@ -1,0 +1,17 @@
+[31m[1mCMake Error[0m at /home/jose/cecs_461_ws/src/rtabmap_ros/CMakeLists.txt:34 (find_package):
+  By not providing "FindRTABMap.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "RTABMap", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "RTABMap"
+  (requested version 0.19.1) with any of the following names:
+
+    RTABMapConfig.cmake
+    rtabmap-config.cmake
+
+  Add the installation prefix of "RTABMap" to CMAKE_PREFIX_PATH or set
+  "RTABMap_DIR" to a directory containing one of the above files.  If
+  "RTABMap" provides a separate development package or SDK, be sure it has
+  been installed.
+
+

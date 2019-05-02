@@ -1,0 +1,1 @@
+/home/jose/cecs_461_ws/devel/.private/kinect2_viewer/share/kinect2_viewer/cmake/kinect2_viewerConfig-version.cmake

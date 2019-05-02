@@ -1,0 +1,13 @@
+Symlinking /home/jose/cecs_461_ws/devel/share/openni_camera/cmake/openni_cameraConfig-version.cmake
+Symlinking /home/jose/cecs_461_ws/devel/share/openni_camera/cmake/openni_cameraConfig.cmake
+Symlinking /home/jose/cecs_461_ws/devel/share/openni_camera/docs/OpenNIConfig.dox
+Symlinking /home/jose/cecs_461_ws/devel/share/openni_camera/docs/OpenNIConfig-usage.dox
+Symlinking /home/jose/cecs_461_ws/devel/share/openni_camera/docs/OpenNIConfig.wikidoc
+Symlinking /home/jose/cecs_461_ws/devel/include/openni_camera/OpenNIConfig.h
+Symlinking /home/jose/cecs_461_ws/devel/lib/libopenni_driver.so
+Symlinking /home/jose/cecs_461_ws/devel/lib/libopenni_nodelet.so
+Symlinking /home/jose/cecs_461_ws/devel/lib/python2.7/dist-packages/openni_camera/__init__.py
+Symlinking /home/jose/cecs_461_ws/devel/lib/python2.7/dist-packages/openni_camera/cfg/__init__.py
+Symlinking /home/jose/cecs_461_ws/devel/lib/python2.7/dist-packages/openni_camera/cfg/OpenNIConfig.py
+Symlinking /home/jose/cecs_461_ws/devel/lib/pkgconfig/openni_camera.pc
+Symlinking /home/jose/cecs_461_ws/devel/lib/openni_camera/openni_node

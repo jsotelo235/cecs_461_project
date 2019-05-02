@@ -1,0 +1,34 @@
+[33m[1mCMake Warning[0m at /home/jose/cecs_461_ws/src/rtabmap_ros/CMakeLists.txt:28 (find_package):
+  By not providing "Findapriltags2_ros.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "apriltags2_ros", but CMake did not find one.
+
+  Could not find a package configuration file provided by "apriltags2_ros"
+  with any of the following names:
+
+    apriltags2_rosConfig.cmake
+    apriltags2_ros-config.cmake
+
+  Add the installation prefix of "apriltags2_ros" to CMAKE_PREFIX_PATH or set
+  "apriltags2_ros_DIR" to a directory containing one of the above files.  If
+  "apriltags2_ros" provides a separate development package or SDK, be sure it
+  has been installed.
+
+
+[31m[1mCMake Error[0m at /home/jose/cecs_461_ws/src/rtabmap_ros/CMakeLists.txt:34 (find_package):
+  By not providing "FindRTABMap.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "RTABMap", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "RTABMap"
+  (requested version 0.19.1) with any of the following names:
+
+    RTABMapConfig.cmake
+    rtabmap-config.cmake
+
+  Add the installation prefix of "RTABMap" to CMAKE_PREFIX_PATH or set
+  "RTABMap_DIR" to a directory containing one of the above files.  If
+  "RTABMap" provides a separate development package or SDK, be sure it has
+  been installed.
+
+

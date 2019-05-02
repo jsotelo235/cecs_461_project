@@ -1,0 +1,1 @@
+/home/jose/cecs_461_ws/devel/.private/rtabmap_ros/share/rtabmap_ros/cmake/rtabmap_rosConfig-version.cmake

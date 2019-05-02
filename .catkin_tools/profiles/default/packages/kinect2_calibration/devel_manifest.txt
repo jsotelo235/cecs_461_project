@@ -1,0 +1,5 @@
+iai_kinect2/kinect2_calibration
+/home/jose/cecs_461_ws/devel/.private/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig.cmake /home/jose/cecs_461_ws/devel/share/kinect2_calibration/cmake/kinect2_calibrationConfig.cmake
+/home/jose/cecs_461_ws/devel/.private/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig-version.cmake /home/jose/cecs_461_ws/devel/share/kinect2_calibration/cmake/kinect2_calibrationConfig-version.cmake
+/home/jose/cecs_461_ws/devel/.private/kinect2_calibration/lib/pkgconfig/kinect2_calibration.pc /home/jose/cecs_461_ws/devel/lib/pkgconfig/kinect2_calibration.pc
+/home/jose/cecs_461_ws/devel/.private/kinect2_calibration/lib/kinect2_calibration/kinect2_calibration /home/jose/cecs_461_ws/devel/lib/kinect2_calibration/kinect2_calibration
